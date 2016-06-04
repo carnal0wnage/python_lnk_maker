@@ -11,6 +11,10 @@ Uses pylnk  to create a Windows LNK file.
 
 Run this on a Windows system with python 2.7 and pylnk installed
 
+![alt text](https://raw.githubusercontent.com/carnal0wnage/python_lnk_maker/master/img_for_readme/python1.png "Logo Title Text 1")
+
+![alt text](https://raw.githubusercontent.com/carnal0wnage/python_lnk_maker/master/img_for_readme/python2.png "Logo Title Text 1")
+
 
 Output of lnk_parser_cmd.exe
 ```
