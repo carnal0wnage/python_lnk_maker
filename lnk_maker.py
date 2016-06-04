@@ -17,4 +17,4 @@ def make_lnk (filename):
     link.icon = "C:\\Windows\\System32\\cliconfg.exe"
     link.save(filename)
 	
-make_lnk("blah3.lnk")
+make_lnk("blah4.lnk")
